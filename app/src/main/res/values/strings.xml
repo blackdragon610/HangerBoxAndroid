@@ -1,0 +1,219 @@
+<resources>
+    <string name="app_name" translatable="false">Hanger Box</string>
+
+    <string name="admob_publisher_id">pub-1621859766745560</string>
+    <string name="admob_app_id">ca-app-pub-1621859766745560~8596656618</string>
+    <string name="admob_banner_live_id">ca-app-pub-1621859766745560/9557651979</string>
+
+    <!--　共通　-->
+    <string name="error_title">エラー</string>
+    <string name="warning_title">注意！</string>
+    <string name="OK">OK</string>
+    <string name="Cancel">キャンセル</string>
+    <string name="YES">はい</string>
+    <string name="NO">いいえ</string>
+    <string name="error_input_email">メールアドレスは必須入力してください。</string>
+    <string name="error_input_image">画像は必須入力してください。</string>
+    <string name="error_input_category">カテゴリーは必須入力してください。</string>
+    <string name="error_input_password">パスワードは必須入力してください。</string>
+    <string name="error_access">サーバへの接続が失敗しました。</string>
+    <string name="error_favorite">最低、１つのアイテムを追加してください。</string>
+
+    <string-array name="image_types">
+        <item>カメラ</item>
+        <item>ギャラリー</item>
+    </string-array>
+
+    <string-array name="currency">
+        <item>USD</item>
+        <item>ARS</item>
+        <item>AUD</item>
+        <item>ATS</item>
+        <item>BEF</item>
+        <item>BRL</item>
+        <item>CAD</item>
+        <item>CLP</item>
+        <item>CNY</item>
+        <item>DKK</item>
+        <item>EGP</item>
+        <item>XEU</item>
+        <item>FIM</item>
+        <item>FRF</item>
+        <item>DEM</item>
+        <item>GRD</item>
+        <item>HKD</item>
+        <item>INR</item>
+        <item>IDR</item>
+        <item>IEP</item>
+        <item>ILS</item>
+        <item>ITL</item>
+        <item>JPY</item>
+        <item>KRW</item>
+        <item>LUF</item>
+        <item>MYR</item>
+        <item>MXP</item>
+        <item>NLG</item>
+        <item>NZD</item>
+        <item>NOK</item>
+        <item>PHP</item>
+        <item>PLN</item>
+        <item>PTE</item>
+        <item>RUR</item>
+        <item>SGD</item>
+        <item>ZAR</item>
+        <item>ESP</item>
+        <item>SEK</item>
+        <item>CHF</item>
+        <item>TWD</item>
+        <item>THB</item>
+        <item>TRL</item>
+        <item>GBP</item>
+    </string-array>
+
+    <string name="loading">接続中・・・</string>
+
+    <!--　ログイン/登録　-->
+    <string name="login">ログイン</string>
+    <string name="logo_desc">本アプリから許可なくして、投稿されることはありません。</string>
+    <string name="login_desc">新規登録しますか？</string>
+    <string name="login_next1">「次へ」進むと、</string>
+    <string name="login_next2">プライバシーポリシー</string>
+    <string name="login_next3">に同意したとみなします。</string>
+    <string name="login_skip">スキップ</string>
+    <string name="login_next_btn">次へ</string>
+    <string name="login_forgot_password">パスワードをお忘れですか？</string>
+    <string name="login_forgot_password_btn">ここをクリック</string>
+    <string name="register">新規登録</string>
+    <string name="email">メールアドレス</string>
+    <string name="password">パスワード</string>
+    <string name="reset_password">パスワードの再設定</string>
+    <string name="reset_password_btn">パスワード再設定メールを送信する</string>
+    <string name="register_desc">アカウントをお持ちの方は？</string>
+    <string name="register_to">登録する</string>
+    <!--    <string name="default_web_client_id">871694309605-relp710d2e8ep45psbe3n23t3uujvueh.apps.googleusercontent.com</string>-->
+    <string name="facebook_app_id">2329282080720591</string>
+    <string name="fb_app_name">hangerbox</string>
+    <string name="fb_client_token">2329282080720591</string>
+
+    <!--　クリエイト　-->
+    <string name="add_favorite">お気に入りに追加</string>
+
+    <!--　アイテム追加　-->
+    <string name="add_item_title">アイテムの追加</string>
+    <string name="edit_item_title">アイテムの編集</string>
+    <string name="detail_item_title">アイテムの詳細</string>
+    <string name="select_item_title">アイテムの追加</string>
+    <string name="camera">カメラ</string>
+    <string name="gallery">ギャラリー</string>
+    <string name="link">リンク</string>
+    <string name="image_link">画像のリンク</string>
+    <string name="shop_link">ショップのリンク</string>
+    <string name="category">カテゴリー</string>
+    <string name="affiliate_url">アフィリエイトリンク</string>
+    <string name="brand">ブランド</string>
+    <string name="price">価格</string>
+    <string name="currency">通貨</string>
+    <string name="comment">コメント</string>
+    <string name="url_format">http://... or https://...</string>
+
+    <!--　お気に入り　-->
+    <string name="edit_favorite_title">お気に入りの編集</string>
+    <string name="detail_favorite_title">お気に入りの詳細</string>
+
+    <!--　画像編集　-->
+    <string name="edit_image_title">画像編集</string>
+
+    <!--　Home　-->
+    <string name="create_nav_title">クリエイト</string>
+    <string name="favorite_nav_title">お気に入り</string>
+    <string name="my_items_nav_title">マイアイテム</string>
+    <string name="libraries_nav_title">ライブラリー</string>
+    <string name="my_page_nav_title">マイページ</string>
+    <string name="setting">設  定</string>
+    <string name="setting_title">個人設定</string>
+    <string name="terms_menu_title">利用規約</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="register_title">ユーザー登録</string>
+    <string name="name_title">フルネーム</string>
+    <string name="email_title">メールアドレス</string>
+    <string name="gender_title">性別</string>
+    <string name="hint_register">未回答</string>
+    <string name="address_title">居住地</string>
+    <string name="apply_title">活用法</string>
+    <string name="register_btn">登録</string>
+    <string name="input_err_title">入力エラー</string>
+    <string name="input_err_msg">を正確に入力してください。</string>
+    <string name="terms_title">このアプリの利用規約に同意する</string>
+    <string name="agree_btn">次  へ</string>
+
+    <string-array name="gender_arr">
+        <item>男性</item>
+        <item>女性</item>
+        <item>回答しない</item>
+    </string-array>
+
+    <string-array name="apply_arr">
+        <item>ビジネス</item>
+        <item>自己啓発</item>
+        <item>スポーツ</item>
+        <item>子育て</item>
+        <item>教育</item>
+        <item>その他</item>
+    </string-array>
+
+    <string-array name="region_arr">
+        <item>北海道</item>
+        <item>青森県</item>
+        <item>岩手県</item>
+        <item>宮城県</item>
+        <item>秋田県</item>
+        <item>山形県</item>
+        <item>福島県</item>
+        <item>茨城県</item>
+        <item>栃木県</item>
+        <item>群馬県</item>
+        <item>埼玉県</item>
+        <item>千葉県</item>
+        <item>東京都</item>
+        <item>神奈川県</item>
+        <item>新潟県</item>
+        <item>富山県</item>
+        <item>石川県</item>
+        <item>福井県</item>
+        <item>山梨県</item>
+        <item>長野県</item>
+        <item>岐阜県</item>
+        <item>静岡県</item>
+        <item>愛知県</item>
+        <item>三重県</item>
+        <item>滋賀県</item>
+        <item>京都府</item>
+        <item>大阪府</item>
+        <item>兵庫県</item>
+        <item>奈良県</item>
+        <item>和歌山県</item>
+        <item>鳥取県</item>
+        <item>島根県</item>
+        <item>岡山県</item>
+        <item>広島県</item>
+        <item>山口県</item>
+        <item>徳島県</item>
+        <item>香川県</item>
+        <item>愛媛県</item>
+        <item>高知県</item>
+        <item>福岡県</item>
+        <item>佐賀県</item>
+        <item>長崎県</item>
+        <item>熊本県</item>
+        <item>大分県</item>
+        <item>宮崎県</item>
+        <item>鹿児島県</item>
+        <item>沖縄県</item>
+        <item>海外</item>
+        <item>回答しない</item>
+    </string-array>
+
+</resources>
